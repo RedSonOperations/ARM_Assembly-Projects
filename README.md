@@ -6,3 +6,5 @@ CharacterIsNumOrAlpha_GradeCalculator - Determines if a character is numeric or 
 ConversionFunctionLibrary - Library of various conversions for everyday use
 
 PrimeNumber_GuessingGame - Algorithm to determine if input number is prime and number guessing game based on user-input conditions
+
+RecursiveMult&Fib-Assembly - Recursive methods written to calculate nth index of Fibonacci sequence and multiplier  
